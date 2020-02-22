@@ -1,3 +1,5 @@
+var arrays chocolateBars is an array containing "snickers", "hundred grand", "kitkat", and "skittles":
+
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 function addElementToBeginningOfArray(array, element) {
@@ -39,9 +41,6 @@ function removeElementFromEndOfArray(array) {
 function accessElementInArray(array, index) {
   return array[index]
 }
-
-
-
 
 // 1) arrays chocolateBars is an array containing "snickers", "hundred grand", "kitkat", and "skittles":
   
